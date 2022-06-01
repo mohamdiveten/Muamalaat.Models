@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Muamalaat.Models", "Muamalaat.Models.csproj", "{7AE37DED-779D-48DD-BA16-350FDFF2535B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Muamalaat.Models.Tests", "..\Muamalaat.Models.Tests\Muamalaat.Models.Tests.csproj", "{42BA7C4B-D702-4633-B0E6-678E20D66D8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AE37DED-779D-48DD-BA16-350FDFF2535B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE37DED-779D-48DD-BA16-350FDFF2535B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE37DED-779D-48DD-BA16-350FDFF2535B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE37DED-779D-48DD-BA16-350FDFF2535B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42BA7C4B-D702-4633-B0E6-678E20D66D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42BA7C4B-D702-4633-B0E6-678E20D66D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42BA7C4B-D702-4633-B0E6-678E20D66D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42BA7C4B-D702-4633-B0E6-678E20D66D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D18E9B2-B7BA-4697-AD27-0431FE2B99EE}
+	EndGlobalSection
+EndGlobal
